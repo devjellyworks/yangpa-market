@@ -9,3 +9,11 @@
 - 판매등록 => 등록시 jwt인증
 - 판매목록 보기 => jwt인증
 - 판매정보의 일련번호로 세부정보 판매정보 열람 => jwt인증
+
+---
+
+## 결과물 제출방법
+
+1. 백앤드 완성 후 postman에서 모두 테스트 하시오.
+2. View Documentation=>publish=>pdf
+3. 최종 pdf를 dev@jellyworks.kr로 제출하시오.
